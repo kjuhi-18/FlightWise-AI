@@ -1,0 +1,195 @@
+Feature,Importance
+Operating_Airline _WN,0.028709304
+OriginStateName_California,0.023790823
+OriginStateName_Illinois,0.022391945
+Operating_Airline _ZW,0.021365281
+DestStateName_Hawaii,0.018874533
+OriginStateName_Michigan,0.018468903
+DestStateName_Texas,0.015028025
+Operating_Airline _YX,0.014686881
+OriginStateName_Hawaii,0.014647474
+Operating_Airline _B6,0.014425715
+OriginStateName_Texas,0.012819528
+OriginStateName_Alaska,0.012619516
+Operated_or_Branded_Code_Share_Partners_DL,0.012056793
+DayofMonth,0.011828054
+Marketing_Airline_Network_AS,0.01123832
+OriginStateName_Arizona,0.010866585
+OriginStateName_Pennsylvania,0.0104328785
+Marketing_Airline_Network_DL,0.010420654
+OriginStateName_Virginia,0.010335073
+OriginStateName_Maryland,0.00992267
+Operating_Airline _DL,0.009794121
+OriginStateName_Iowa,0.009766841
+DestStateName_Florida,0.009764394
+OriginStateName_Nevada,0.009362358
+OriginStateName_Florida,0.009278497
+DestStateName_Colorado,0.009157103
+OriginStateName_Colorado,0.008810989
+Marketing_Airline_Network_WN,0.008696133
+Operating_Airline _PT,0.007907447
+OriginStateName_New York,0.007830012
+OriginStateName_Wisconsin,0.0075503285
+DestStateName_Nevada,0.007452271
+Operating_Airline _AA,0.0073870705
+Marketing_Airline_Network_UA,0.007336838
+OriginStateName_Utah,0.0071184994
+DestStateName_Illinois,0.007057369
+DestStateName_New Jersey,0.0070188
+DestStateName_California,0.0068893624
+OriginStateName_Massachusetts,0.0068517304
+Operated_or_Branded_Code_Share_Partners_AA_CODESHARE,0.0067002196
+Marketing_Airline_Network_B6,0.006669789
+Operated_or_Branded_Code_Share_Partners_B6,0.0065224054
+OriginStateName_Puerto Rico,0.0064534857
+DestStateName_New York,0.00636242
+DestStateName_Massachusetts,0.006346407
+OriginStateName_Washington,0.006304262
+DepartureHour,0.0062345727
+OriginStateName_Missouri,0.006049559
+OriginStateName_New Mexico,0.0059407745
+DestStateName_Georgia,0.0059284666
+Operated_or_Branded_Code_Share_Partners_HA,0.005776512
+OriginStateName_Kentucky,0.005726001
+Operated_or_Branded_Code_Share_Partners_UA,0.005713979
+Operating_Airline _OO,0.005663265
+DayOfWeek,0.005591861
+Operated_or_Branded_Code_Share_Partners_WN,0.0055604833
+DestStateName_Michigan,0.0054498743
+OriginStateName_Nebraska,0.0054298067
+Marketing_Airline_Network_HA,0.0053237407
+Operating_Airline _OH,0.0053225765
+OriginStateName_South Carolina,0.0052887374
+ArrivalHour,0.0051635103
+OriginStateName_Tennessee,0.0050577004
+Operating_Airline _AS,0.005046202
+Operated_or_Branded_Code_Share_Partners_DL_CODESHARE,0.004984358
+DestStateName_Utah,0.0049780114
+Marketing_Airline_Network_NK,0.0049170586
+OriginStateName_Montana,0.0048676147
+OriginStateName_Indiana,0.004855213
+DestStateName_Washington,0.004847265
+Operated_or_Branded_Code_Share_Partners_AS_CODESHARE,0.004784522
+OriginTraffic,0.0047695395
+OriginStateName_North Carolina,0.00470626
+Dest_Freq,0.004659951
+FlightDurationCategory_VeryLong,0.004567775
+OriginStateName_New Jersey,0.0045667407
+OriginStateName_Louisiana,0.004552106
+DestStateName_Alaska,0.004466251
+OriginStateName_Minnesota,0.0043076607
+Operated_or_Branded_Code_Share_Partners_NK,0.0042700446
+OriginStateName_Idaho,0.004212232
+Operating_Airline _F9,0.004137715
+DestStateName_North Carolina,0.0040591834
+OriginStateName_Georgia,0.004057518
+OriginStateName_Ohio,0.004055876
+DestStateName_Oregon,0.0040387083
+Operating_Airline _MQ,0.0040158206
+OriginStateName_Arkansas,0.0039673187
+OriginStateName_Oregon,0.0039349757
+FlightDurationCategory_Long,0.0037567802
+DestTraffic,0.0036968475
+DestStateName_Minnesota,0.0036797812
+Operated_or_Branded_Code_Share_Partners_AS,0.0036750704
+Operating_Airline _NK,0.003640543
+DestStateName_Arizona,0.0035931114
+Operating_Airline _YV,0.0035879356
+DestStateName_Iowa,0.0035842343
+Operated_or_Branded_Code_Share_Partners_F9,0.0035826322
+DestStateName_Maryland,0.003564269
+OriginStateName_Connecticut,0.0035198035
+Operating_Airline _G7,0.0034689368
+Origin_Freq,0.0034406001
+DestStateName_Louisiana,0.003409646
+Operated_or_Branded_Code_Share_Partners_G4,0.0033905357
+DestStateName_New Mexico,0.0033827727
+DestStateName_Idaho,0.0033780742
+DestStateName_Connecticut,0.0033102457
+Operated_or_Branded_Code_Share_Partners_UA_CODESHARE,0.003289836
+OriginStateName_West Virginia,0.0032891042
+DestStateName_Ohio,0.0032350188
+Distance,0.003226449
+DestStateName_Pennsylvania,0.0032107425
+DestStateName_Mississippi,0.0031404726
+DestStateName_Virginia,0.0031361077
+Marketing_Airline_Network_F9,0.0031273086
+DestStateName_Indiana,0.0030776053
+OriginStateName_South Dakota,0.00306492
+Operating_Airline _C5,0.0030414255
+FlightDurationCategory_Medium,0.0029926042
+OriginStateName_Oklahoma,0.0029778266
+DestStateName_New Hampshire,0.0029723477
+OriginStateName_New Hampshire,0.002970685
+OriginStateName_Mississippi,0.0029672645
+ArrTimeBlk_0900-0959,0.0029156932
+DestStateName_Kentucky,0.002890206
+OriginStateName_North Dakota,0.0028354994
+DepTimeBlk_0600-0659,0.0028211966
+DestStateName_Missouri,0.0028079273
+DestStateName_Oklahoma,0.002783671
+ArrTimeBlk_0600-0659,0.0027806745
+DepTimeBlk_2200-2259,0.0027746956
+DestStateName_Nebraska,0.002769466
+ArrTimeBlk_1000-1059,0.0027277502
+OriginStateName_U.S. Pacific Trust Territories and Possessions,0.0027245432
+OriginStateName_Rhode Island,0.002722515
+Operating_Airline _QX,0.0027048895
+ArrTimeBlk_0800-0859,0.0026842915
+ArrTimeBlk_0700-0759,0.0026749317
+Route_Freq,0.002670696
+DepTimeBlk_1600-1659,0.0026626429
+DestStateName_Arkansas,0.0026530812
+DepTimeBlk_1800-1859,0.0026425296
+Marketing_Airline_Network_G4,0.002638639
+DestStateName_Wisconsin,0.0026237387
+DestStateName_U.S. Virgin Islands,0.002615296
+DepTimeBlk_0800-0859,0.0025581978
+DestStateName_Tennessee,0.002545607
+ArrTimeBlk_2000-2059,0.002531714
+DestStateName_South Dakota,0.0025273666
+DepTimeBlk_1000-1059,0.0025162338
+DepTimeBlk_1200-1259,0.00250768
+DepTimeBlk_2100-2159,0.0024750861
+DepTimeBlk_2000-2059,0.0024746445
+DepTimeBlk_2300-2359,0.0024596797
+DestStateName_West Virginia,0.00242553
+DepTimeBlk_1900-1959,0.0024245405
+DestStateName_Puerto Rico,0.0023965966
+ArrTimeBlk_1500-1559,0.0023660723
+DepTimeBlk_1300-1359,0.0023570382
+DestStateName_Montana,0.0023451152
+DepTimeBlk_0700-0759,0.0023445003
+OriginStateName_Wyoming,0.002339817
+ArrTimeBlk_1200-1259,0.002330296
+ArrTimeBlk_2100-2159,0.0023081764
+IsWeekend,0.0023071636
+DestStateName_Vermont,0.002306706
+OriginStateName_U.S. Virgin Islands,0.0023059587
+ArrTimeBlk_1800-1859,0.0023040713
+ArrTimeBlk_1100-1159,0.0023021498
+DestStateName_South Carolina,0.0022797051
+ArrTimeBlk_1700-1759,0.002279623
+DestStateName_Kansas,0.0022786716
+ArrTimeBlk_1900-1959,0.002277707
+DestStateName_North Dakota,0.0022704802
+DepTimeBlk_0900-0959,0.0022643795
+ArrTimeBlk_1400-1459,0.0022639995
+DepTimeBlk_1400-1459,0.002244336
+DepTimeBlk_1100-1159,0.00222645
+DepTimeBlk_1700-1759,0.0022200143
+ArrTimeBlk_1600-1659,0.0022000812
+ArrTimeBlk_1300-1359,0.0021775463
+Operating_Airline _G4,0.002163466
+DepTimeBlk_1500-1559,0.002147965
+ArrTimeBlk_2200-2259,0.0021411902
+ArrTimeBlk_2300-2359,0.0021190797
+DestStateName_Rhode Island,0.0020491334
+DestStateName_Maine,0.0020422922
+OriginStateName_Kansas,0.002031424
+OriginStateName_Maine,0.0020303589
+Operating_Airline _UA,0.002009591
+DestStateName_Wyoming,0.0019995512
+OriginStateName_Vermont,0.0019696224
+Operating_Airline _HA,0.0018818951
+DestStateName_U.S. Pacific Trust Territories and Possessions,0.0

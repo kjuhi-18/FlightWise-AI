@@ -9,6 +9,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?style=for-the-badge\&logo=streamlit)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-f7931e?style=for-the-badge\&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple?style=for-the-badge\&logo=pandas)
+## 🌐 Live Demo
+
+https://flightwise-ai.streamlit.app/
 
 ### 🚀 Predict Flight Delays Before Takeoff Using Machine Learning
 
